@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+}
+
+#img{
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    padding-top: 100px;
+}
+img{
+    border:5px solid yellow ;
+}
